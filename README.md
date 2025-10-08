@@ -37,11 +37,9 @@ arise/
 ├── data/
 │   ├── AIME.jsonl          # AIME dataset
 │   └── HMMT.jsonl          # HMMT dataset
-├── configs/
-│   └── default_config.yaml # Default configuration
 ├── results/                # Evaluation results (generated)
 └── scripts/
-    └── run_experiments.sh   # Experiment runner script
+    └── run.sh   # Experiment runner script
 ```
 
 ## Quick Start
